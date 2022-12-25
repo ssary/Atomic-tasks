@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "do some react Practice",
+      "appoint": "19/11/2023 Friday",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "title": "Practice Problem solving :3 <3",
+      "appoint": "22/02/2022 Friday",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "title": "Praying",
+      "appoint": "Every day 06:00",
+      "reminder": true
+    }
+  ]
+}
